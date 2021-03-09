@@ -21,3 +21,4 @@
 > :Collapse label=Members
 > 
 > [NN](/docs/members/nn)
+> [Miguel Medellín](/docs/members/MiguelMedellin)
